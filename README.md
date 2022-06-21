@@ -1,6 +1,6 @@
 # <b>up2sat - Look Up To Satellites</b>
 
-O projeto <b>up2sat</b> tem como objetivo mostrar em tempo real a localização de satélites em uma arte ASCII em um terminal.
+O projeto <b>up2sat</b> tem como objetivo mostrar em tempo real a localização de satélites em um mapa ASCII no terminal.
 
 ---
 
